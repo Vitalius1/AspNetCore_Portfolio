@@ -1,0 +1,10 @@
+img{
+    display: block;
+}
+#navbar{
+    margin: 10px;
+    padding: 5px;
+}
+a{
+    margin: 10px;
+}
